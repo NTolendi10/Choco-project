@@ -1,0 +1,10 @@
+#orderlink{
+  margin-top: 40px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: sans-serif;
+  box-sizing: border-box;
+  padding-left: 10%
+}
